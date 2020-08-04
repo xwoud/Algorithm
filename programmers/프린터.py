@@ -19,4 +19,4 @@ def solution(priorities, location):
         if location_stack[i][1] == True:
             answer = i+1
             
-    return print(answer)
+    return answer
