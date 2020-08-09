@@ -18,5 +18,5 @@ def solution(progresses, speeds):
 
             pass_answer+=tmp
 
-            
+
     return answer
