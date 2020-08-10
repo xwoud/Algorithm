@@ -12,5 +12,5 @@ def solution(brown, yellow):
         if (min[0]+2) * (min[1]+2) == brown+yellow :
             answer = [min[0]+2,min[1]+2]
             break
-            
+
     return answer
