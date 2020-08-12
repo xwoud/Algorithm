@@ -6,7 +6,6 @@ def solution(operations):
             que.append(int(i[2:]))
         elif i == "D 1":
             if len(que) != 0 :
-                print("hi:",max(que))
                 que.remove(max(que))
         else :
             if len(que) != 0:
