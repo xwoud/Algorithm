@@ -1,6 +1,6 @@
 def solution(number, k):
     list_k = []
-    for i, j in enumerate(number):
+    for i,j in enumerate(number):
         while len(list_k) > 0 and list_k[-1] < j and k > 0:
             list_k.pop()
             k -= 1
@@ -10,3 +10,4 @@ def solution(number, k):
     answer = ''.join(list_k)
 
     return answer
+print(solution("4177252841",4))
