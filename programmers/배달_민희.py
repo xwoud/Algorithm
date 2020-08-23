@@ -6,13 +6,7 @@ def solution(N, road, K):
     for i in range(1, N+1):
         graph[i][i] = 0
 
-    for connection in road:
-        n1 = connection[0]
-        n2 = connection[1]
-        w = connection[2]
-        if graph[n1][n2] > w:
-            graph[n1][n2] = w
-            graph[n2][n1] = w
+ㅊ
 
     for x in range(1, N+1):
         for y in range(1, N+1):
