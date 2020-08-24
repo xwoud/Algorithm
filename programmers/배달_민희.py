@@ -6,7 +6,6 @@ def solution(N, road, K):
     for i in range(1, N+1):
         graph[i][i] = 0
 
-ㅊ
 
     for x in range(1, N+1):
         for y in range(1, N+1):
