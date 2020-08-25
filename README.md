@@ -25,6 +25,7 @@
 | 8/21  | 베스트앨범 | [베스트앨범.py](/programmers/베스트앨범.py)|[풀이](/풀이/풀이_베스트앨범.md)|해시 |
 | 8/23  | 배달 | [배달.py](/programmers/배달_민희.py)|[풀이](/풀이/풀이_배달.md)|bfs |
 | 8/24  | 올바른 괄호 | [올바른괄호.py](/programmers/올바른괄호.py)|[풀이](/풀이/풀이_올바른괄호.md)|스택  |
+| 8/25  | H-Index | [H-Index.py](/programmers/HIndex.py)|[풀이](/풀이/풀이_HIndex.md)|정렬  |
 
 
 
