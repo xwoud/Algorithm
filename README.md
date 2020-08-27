@@ -26,6 +26,7 @@
 | 8/23  | 배달 | [배달.py](/programmers/배달_민희.py)|[풀이](/풀이/풀이_배달.md)|bfs |
 | 8/24  | 올바른 괄호 | [올바른괄호.py](/programmers/올바른괄호.py)|[풀이](/풀이/풀이_올바른괄호.md)|스택  |
 | 8/25  | H-Index | [H-Index.py](/programmers/HIndex.py)|[풀이](/풀이/풀이_HIndex.md)|정렬  |
+| 8/27  | K번째 수 | [K번째수.py](/programmers/K번째수.py)|[풀이](/풀이/풀이_K번째수.md)|정렬  |
 
 
 
