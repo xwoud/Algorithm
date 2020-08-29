@@ -28,6 +28,7 @@
 | 8/25  | H-Index | [H-Index.py](/programmers/HIndex.py)|[풀이](/풀이/풀이_HIndex.md)|정렬  |
 | 8/27  | K번째 수 | [K번째수.py](/programmers/K번째수.py)|[풀이](/풀이/풀이_K번째수.md)|정렬  |
 | 8/28  | 주식가격 | [주식가격.py](/programmers/주식가격.py)|[풀이](/풀이/풀이_주식가격.md)|스택/큐  |
+| 8/29  | 불량 사용자 | [불량사용자.py](/programmers/불량사용자_민희.py)|[풀이](/풀이/풀이_불량사용자.md)|카카오 인턴십 문제  |
 
 
 
