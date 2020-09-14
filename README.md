@@ -40,6 +40,7 @@
 | 9/12| 괄호 변환| [괄호변환.py](/programmers/괄호변환.py)|[풀이](/풀이/풀이_괄호변환.md)|2020 KAKAO BLIND RECRUITMENT|
 | 9/13| 수식 최대화| [수식최대화.py](/programmers/수식최대화.py)|[풀이](/풀이/풀이_수식최대화.md)|2020 카카오 인턴십|
 | 9/14| 영어 끝말잇기| [영어끝말잇기.py](/programmers/영어끝말잇기.py)|[풀이](/풀이/풀이_영어끝말잇기.md)|Summer/Winter Coding(~2018) |
+| 9/15| 디스크 컨트롤러| [디스크컨트롤러.py](/programmers/디스크컨트롤러.py)|[풀이](/풀이/풀이_디스크컨트롤러.md)|힙(Heap)|
 
 
 
