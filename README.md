@@ -42,6 +42,7 @@
 | 9/14| 영어 끝말잇기| [영어끝말잇기.py](/programmers/영어끝말잇기.py)|[풀이](/풀이/풀이_영어끝말잇기.md)|Summer/Winter Coding(~2018) |
 | 9/15| 디스크 컨트롤러| [디스크컨트롤러.py](/programmers/디스크컨트롤러.py)|[풀이](/풀이/풀이_디스크컨트롤러.md)|힙(Heap)|
 | 9/16| 네트워크| [네트워크.py](/programmers/네트워크.py)|[풀이](/풀이/풀이_네트워크.md)|깊이/너비 우선 탐색(DFS/BFS)|
+| 9/17| 실패율| [실패율.py](/programmers/실패율.py)|[풀이](/풀이/풀이_실패율.md)|2019 KAKAO BLIND RECRUITMENT|
 
 
 
