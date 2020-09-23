@@ -45,6 +45,7 @@
 | 9/17| 실패율| [실패율.py](/programmers/실패율.py)|[풀이](/풀이/풀이_실패율.md)|2019 KAKAO BLIND RECRUITMENT|
 | 9/18| 입국심사| [입국심사.py](/programmers/입국심사.py)|[풀이](/풀이/풀이_입국심사.md)|이분탐색|
 | 9/22| 점프와 순간 이동| [점프와순간이동.py](/programmers/점프와순간이동.py)|[풀이](/풀이/풀이_점프와순간이동.md)|Summer/Winter Coding(~2018)|
+| 9/23| 정수 삼각형| [정수삼각형.py](/programmers/정수삼각형.py)|[풀이](/풀이/풀이_정수삼각형.md)|동적계획법|
 
 
 
