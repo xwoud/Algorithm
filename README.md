@@ -53,6 +53,7 @@
 | 10/5| 순위| [순위.py](/programmers/순위.py)|[풀이](/풀이/풀이_순위.md)|그래프|
 | 10/7| 단속카메라| [단속카메라.py](/programmers/단속카메라.py)|[풀이](/풀이/풀이_단속카메라.md)|탐욕법|
 | 10/8| 스킬트리| [스킬트리.py](/programmers/스킬트리.py)|[풀이](/풀이/풀이_스킬트리.md)|Summer/Winter Coding(~2018)|
+| 10/11| 외벽 점검| [외벽점검.py](/programmers/외벽점검.py)|[풀이](/풀이/풀이_외벽점검.md)|2020 KAKAO BLIND RECRUITMENT|
 
 
 
