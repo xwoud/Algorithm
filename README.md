@@ -55,6 +55,8 @@
 | 10/11| 외벽 점검| [외벽점검.py](/programmers/외벽점검.py)|[풀이](/풀이/풀이_외벽점검.md)|2020 KAKAO BLIND RECRUITMENT|
 | 10/12| 멀리 뛰기| [멀리뛰기.py](/programmers/멀리뛰기.py)|[풀이](/풀이/풀이_멀리뛰기.md)|동적계획법|
 | 10/13| 문자열 내 마음대로 정렬하기| [문자열내마음대로정렬하기.py](/programmers/문자열내마음대로정렬하기.py)|[풀이](/풀이/풀이_문자열내마음대로정렬하기.md)|정렬|
+| 10/15| JadenCase 문자열 만들기| [JadenCase문자열만들기.py](/programmers/JadenCase문자열만들기.py)|[풀이](/풀이/풀이_JadenCase문자열만들기.md)||
+
 
 
 
