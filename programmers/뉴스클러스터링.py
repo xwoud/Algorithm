@@ -2,7 +2,6 @@ def solution(str1, str2):
 
     list1 = [str1[n:n+2].lower() for n in range(len(str1)-1) if str1[n:n+2].isalpha()]
     list2 = [str2[n:n+2].lower() for n in range(len(str2)-1) if str2[n:n+2].isalpha()]
-
     tlist = set(list1) | set(list2)
     res1 = []
     res2 = []
