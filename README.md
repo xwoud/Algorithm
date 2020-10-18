@@ -57,6 +57,7 @@
 | 10/13| 문자열 내 마음대로 정렬하기| [문자열내마음대로정렬하기.py](/programmers/문자열내마음대로정렬하기.py)|[풀이](/풀이/풀이_문자열내마음대로정렬하기.md)|정렬|
 | 10/15| JadenCase 문자열 만들기| [JadenCase문자열만들기.py](/programmers/JadenCase문자열만들기.py)|[풀이](/풀이/풀이_JadenCase문자열만들기.md)||
 | 10/16| 뉴스 클러스터링| [뉴스클러스터링.py](/programmers/뉴스클러스터링.py)|[풀이](/풀이/풀이_뉴스클러스터링.md)|2018 KAKAO BLIND RECRUITMENT|
+| 10/18| 풍선 터뜨리기| [풍선터뜨리기.py](/programmers/풍선터뜨리기.py)|[풀이](/풀이/풀이_풍선터뜨리기.md)|월간 코드 챌린지 시즌1|
 
 
 
