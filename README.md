@@ -62,7 +62,7 @@
 | 10/20| 쿼드압축 후 개수 세기| [쿼드압축후개수세기.py](/programmers/쿼드압축후개수세기.py)|[풀이](/풀이/풀이_쿼드압축후개수세기.md)|월간 코드 챌린지 시즌1|
 | 10/21| 비밀지도| [비밀지도.py](/programmers/비밀지도.py)|[풀이](/풀이/풀이_비밀지도.md)|2018 KAKAO BLIND RECRUITMENT|
 | 10/22 | 경주로 건설| [경주로건설.py](/programmers/경주로건설.py)|[풀이](/풀이/풀이_경주로건설.md)|2020 카카오 인턴십|
-| 10/25| n진수 게임| [n진수게임.py](/programmers/n진수게임.py)|[풀이](/풀이/풀이_n진수게임md)|2018 KAKAO BLIND RECRUITMENT|
+| 10/25| n진수 게임| [n진수게임.py](/programmers/n진수게임.py)|[풀이](/풀이/풀이_n진수게임.md)|2018 KAKAO BLIND RECRUITMENT|
 
 
 
