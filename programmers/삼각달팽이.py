@@ -1,6 +1,7 @@
 from itertools import chain
 def solution(n):
     maps = [[0 for _ in range(n)] for _ in range(n)]
+    print(maps)
     y, x = -1, 0
     number = 1
     for i in range(n):
