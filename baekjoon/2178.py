@@ -13,8 +13,7 @@ def bfs():
     while need_visit:
         now_pos = need_visit.popleft()
         if now_pos == (N-1,M-1):
-            print(count)
-            return count[now_pos[0]][now_pos[1]]
+            return count[now_pos[0]][now_pos[1]] + 1
         for i in range(4):
             nx = now_pos[0] + dx[i]
             ny = now_pos[1] + dy[i]
