@@ -1,4 +1,19 @@
-# 📚 Algorithm Study with Python
+# 💜 Algorithm Study with Swift
+
+### 규칙
+
+- 플랫폼 : 프로그래머스, 백준
+- 일주일에 5개의 알고리즘 완료 (휴일 2일)
+
+
+    | 날짜  | 제목   | 코드   | 풀이   | 비고   |
+    | ------------ | ------------ | ------------ | ------------ | ------------ |
+
+
+<br>
+<br>
+
+# 💚 Algorithm Study with Python
 
 ### 규칙
 
