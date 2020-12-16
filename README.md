@@ -7,7 +7,8 @@
 
     | 날짜  | 제목   | 코드   | 비고   |
     | ------------ | ------------ | ------------ | ------------ |
-    | 12/16 | 두 개 뽑아서 더하기| [두 개 뽑아서 더하기.py](/SwiftAlgorithm/SwiftAlgorithm/두개뽑아서더하기.swift)| 완전 탐색|
+    | 12/16 | 두 개 뽑아서 더하기| [두 개 뽑아서 더하기.swift](/SwiftAlgorithm/SwiftAlgorithm/두개뽑아서더하기.swift)| 완전 탐색|
+    | 12/16 | K번째 수| [K번째수.swift](/SwiftAlgorithm/SwiftAlgorithm/K번째수.swift)|배열 정렬|
 
 <br>
 <br>
