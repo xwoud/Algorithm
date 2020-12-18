@@ -11,6 +11,7 @@
 		9BA87A7525890FB700C53002 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA87A6925890ECA00C53002 /* main.swift */; };
 		9BC652432589D7C600599E13 /* K번째수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC652422589D7C600599E13 /* K번째수.swift */; };
 		9BC8E386258A60F800CEF2AF /* 2016년.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC8E385258A60F800CEF2AF /* 2016년.swift */; };
+		9BD36ECD258CD7F600CB596F /* 두정수사이의합.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD36ECC258CD7F600CB596F /* 두정수사이의합.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		9BA87A7125890EDC00C53002 /* 두개뽑아서더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두개뽑아서더하기.swift"; sourceTree = "<group>"; };
 		9BC652422589D7C600599E13 /* K번째수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "K번째수.swift"; sourceTree = "<group>"; };
 		9BC8E385258A60F800CEF2AF /* 2016년.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2016년.swift"; sourceTree = "<group>"; };
+		9BD36ECC258CD7F600CB596F /* 두정수사이의합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두정수사이의합.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				9BA87A7125890EDC00C53002 /* 두개뽑아서더하기.swift */,
 				9BC652422589D7C600599E13 /* K번째수.swift */,
 				9BC8E385258A60F800CEF2AF /* 2016년.swift */,
+				9BD36ECC258CD7F600CB596F /* 두정수사이의합.swift */,
 			);
 			path = SwiftAlgorithm;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 				9BC652432589D7C600599E13 /* K번째수.swift in Sources */,
 				9BC8E386258A60F800CEF2AF /* 2016년.swift in Sources */,
 				9BA87A7525890FB700C53002 /* main.swift in Sources */,
+				9BD36ECD258CD7F600CB596F /* 두정수사이의합.swift in Sources */,
 				9BA87A7225890EDC00C53002 /* 두개뽑아서더하기.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
