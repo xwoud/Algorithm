@@ -11,6 +11,7 @@
     | 12/16 | K번째 수| [K번째수.swift](/SwiftAlgorithm/SwiftAlgorithm/K번째수.swift)|배열 정렬|
     | 12/17 | 2016년| [2016년.swift](/SwiftAlgorithm/SwiftAlgorithm/2016년.swift)|날짜|
     | 12/18 | 두 정수 사이의 합| [두정수사이의합.swift](/SwiftAlgorithm/SwiftAlgorithm/두정수사이의합.swift)|정렬|
+    | 12/19 | 나누어 떨어지는 숫자 배열| [나누어떨어지는숫자배열.swift](/SwiftAlgorithm/SwiftAlgorithm/나누어떨어지는숫자배열.swift)|정렬|
 
 <br>
 <br>
