@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B54EE6725912C0500F60124 /* 3진법뒤집기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B54EE6625912C0500F60124 /* 3진법뒤집기.swift */; };
 		9B6D9116258F9E2F00C2EE07 /* 내적.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B6D9115258F9E2F00C2EE07 /* 내적.swift */; };
 		9BA87A7525890FB700C53002 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA87A6925890ECA00C53002 /* main.swift */; };
 		9BD36ECD258CD7F600CB596F /* 두정수사이의합.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD36ECC258CD7F600CB596F /* 두정수사이의합.swift */; };
@@ -27,6 +28,7 @@
 /* Begin PBXFileReference section */
 		9B10FF6E258DD392006BF7C5 /* 나누어떨어지는숫자배열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "나누어떨어지는숫자배열.swift"; sourceTree = "<group>"; };
 		9B10FF71258DD688006BF7C5 /* 시저암호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "시저암호.swift"; sourceTree = "<group>"; };
+		9B54EE6625912C0500F60124 /* 3진법뒤집기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3진법뒤집기.swift"; sourceTree = "<group>"; };
 		9B6D9115258F9E2F00C2EE07 /* 내적.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "내적.swift"; sourceTree = "<group>"; };
 		9BA87A6625890ECA00C53002 /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BA87A6925890ECA00C53002 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				9B10FF6E258DD392006BF7C5 /* 나누어떨어지는숫자배열.swift */,
 				9B10FF71258DD688006BF7C5 /* 시저암호.swift */,
 				9B6D9115258F9E2F00C2EE07 /* 내적.swift */,
+				9B54EE6625912C0500F60124 /* 3진법뒤집기.swift */,
 			);
 			path = SwiftAlgorithm;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B54EE6725912C0500F60124 /* 3진법뒤집기.swift in Sources */,
 				9BA87A7525890FB700C53002 /* main.swift in Sources */,
 				9BD36ECD258CD7F600CB596F /* 두정수사이의합.swift in Sources */,
 				9B6D9116258F9E2F00C2EE07 /* 내적.swift in Sources */,
