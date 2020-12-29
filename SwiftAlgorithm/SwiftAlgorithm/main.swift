@@ -8,4 +8,3 @@
 import Foundation
 
 print("Swift Algorithm with mingzzi")
-print(solution(5,[2,4],[3]))
