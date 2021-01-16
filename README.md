@@ -3,19 +3,18 @@
 ### 규칙
 
 - 플랫폼 : 프로그래머스, 백준
-- 일주일에 5개의 알고리즘 완료 (휴일 2일)
 
     | 날짜  | 제목   | 코드   | 비고   |
     | ------------ | ------------ | ------------ | ------------ |
-    | 12/16 | 두 개 뽑아서 더하기| [두 개 뽑아서 더하기.swift](/SwiftAlgorithm/SwiftAlgorithm/두개뽑아서더하기.swift)| 완전 탐색|
-    | 12/16 | K번째 수| [K번째수.swift](/SwiftAlgorithm/SwiftAlgorithm/K번째수.swift)|배열 정렬|
-    | 12/17 | 2016년| [2016년.swift](/SwiftAlgorithm/SwiftAlgorithm/2016년.swift)|날짜|
-    | 12/18 | 두 정수 사이의 합| [두정수사이의합.swift](/SwiftAlgorithm/SwiftAlgorithm/두정수사이의합.swift)|정렬|
-    | 12/19 | 나누어 떨어지는 숫자 배열| [나누어떨어지는숫자배열.swift](/SwiftAlgorithm/SwiftAlgorithm/나누어떨어지는숫자배열.swift)|정렬|
-    | 12/19 | 시저 암호| [시저암호.swift](/SwiftAlgorithm/SwiftAlgorithm/시저암호.swift)|아스키코드|
-    | 12/21 | 내적| [내적.swift](/SwiftAlgorithm/SwiftAlgorithm/내적.swift)|월간 코드 챌린지 시즌1|
-    | 12/22 | 3진법 뒤집기| [3진법뒤집기.swift](/SwiftAlgorithm/SwiftAlgorithm/3진법뒤집기.swift)|월간 코드 챌린지 시즌1|
-    | 12/24 | x만큼 간격이 있는 n개의 숫자| [x만큼간격이있는n개의숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/x만큼간격이있는n개의숫자.swift)|크리스마스이브🎄|
+    | 20.12.16 | 두 개 뽑아서 더하기| [두 개 뽑아서 더하기.swift](/SwiftAlgorithm/SwiftAlgorithm/두개뽑아서더하기.swift)| 완전 탐색|
+    | 20.12.16 | K번째 수| [K번째수.swift](/SwiftAlgorithm/SwiftAlgorithm/K번째수.swift)|배열 정렬|
+    | 20.12.17 | 2016년| [2016년.swift](/SwiftAlgorithm/SwiftAlgorithm/2016년.swift)|날짜|
+    | 20.12.18 | 두 정수 사이의 합| [두정수사이의합.swift](/SwiftAlgorithm/SwiftAlgorithm/두정수사이의합.swift)|정렬|
+    | 20.12.19 | 나누어 떨어지는 숫자 배열| [나누어떨어지는숫자배열.swift](/SwiftAlgorithm/SwiftAlgorithm/나누어떨어지는숫자배열.swift)|정렬|
+    | 20.12.19 | 시저 암호| [시저암호.swift](/SwiftAlgorithm/SwiftAlgorithm/시저암호.swift)|아스키코드|
+    | 20.12.21 | 내적| [내적.swift](/SwiftAlgorithm/SwiftAlgorithm/내적.swift)|월간 코드 챌린지 시즌1|
+    | 20.12.22 | 3진법 뒤집기| [3진법뒤집기.swift](/SwiftAlgorithm/SwiftAlgorithm/3진법뒤집기.swift)|월간 코드 챌린지 시즌1|
+    | 20.12.24 | x만큼 간격이 있는 n개의 숫자| [x만큼간격이있는n개의숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/x만큼간격이있는n개의숫자.swift)|크리스마스이브🎄|
 
 <br>
 <br>
