@@ -18,7 +18,7 @@
     | 20.12.24 | x만큼 간격이 있는 n개의 숫자| [x만큼간격이있는n개의숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/x만큼간격이있는n개의숫자.swift)|크리스마스이브🎄|
     | 20.01.23 | 문자열 다루기 기본| [문자열다루기기본.swift](/SwiftAlgorithm/SwiftAlgorithm/문자열다루기기본.swift)|문자열검사|
     | 20.01.24 | 서울에서 김서방 찾기| [서울에서김서방찾기.swift](/SwiftAlgorithm/SwiftAlgorithm/서울에서김서방찾기.swift)|배열인덱스|
-    | 20.01.31 | 다음 큰 숫자| [다음큰숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/다음큰숫자.swift)|2진수|
+    | 20.01.31 | 다음 큰 숫자| [다음큰숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/다음큰숫자.swift)| 2진수 |
 
 <br>
 <br>
