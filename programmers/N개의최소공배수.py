@@ -6,7 +6,6 @@ def solution(arr):
     while len(arr) > 1 :
         a, b = arr.pop(0), arr.pop(0)
         arr.append(a*b // gcd(a,b))
-        arr.sort()
 
     return arr[0]
 
