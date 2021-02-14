@@ -3,7 +3,7 @@ import re
 def solution(files):
     lists = []
     answer = []
-    
+
     for i in files:
         lists.append(re.split("([0-9]+)",i))
 
