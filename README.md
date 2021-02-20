@@ -124,6 +124,7 @@
 | 02/14| 행렬의 곱셈 | [행렬의 곱셈.py](/programmers/행렬의곱셈.py)|[풀이](/풀이/풀이_행렬의곱셈.md)|행렬|
 | 02/14| 압축 | [압축.py](/programmers/압축.py)|[풀이](/풀이/풀이_압축.md)|2018 KAKAO BLIND RECRUITMENT|
 | 02/14| 파일명 정렬 | [파일명 정렬.py](/programmers/파일명정렬.py)|[풀이](/풀이/풀이_파일명정렬.md)|2018 KAKAO BLIND RECRUITMENT|
+| 02/14| 최고의 집합 | [최고의 집합.py](/programmers/최고의집합.py)|[풀이](/풀이/풀이_최고의집합.md)| 중복 집합 |
 
 
 
