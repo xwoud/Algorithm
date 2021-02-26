@@ -11,7 +11,7 @@ for i in n:
         num_set[i] += 1
 
 if num_set[6] % 2 == 1:
-    num_set[6] = num_set[6] // 2 + ㅌ
+    num_set[6] = num_set[6] // 2 + 1
 else :
     num_set[6] = num_set[6] // 2
 
