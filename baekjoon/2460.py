@@ -1,6 +1,6 @@
-import sys이
+import sys
 
-# 비교를 이용한 풀
+# 비교를 이용한 풀이
 answer = 0
 maxPeople = 0
 for _ in range(10):
