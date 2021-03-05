@@ -14,11 +14,11 @@ def getPrime(n):
 
 primeList = getPrime(max(arr)+1)
 print(primeList)
-# answer = 0
-# for k in arr :
-#     if k in primeList:
-#         answer += 1
-# print(answer)
+answer = 0
+for k in arr :
+    if k in primeList:
+        answer += 1
+print(answer)
 
 # for k in arr:
 #     a = [i for i in range(3,k+1,2)]
