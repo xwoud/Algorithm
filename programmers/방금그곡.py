@@ -16,12 +16,12 @@ def solution(m, musicinfos):
         melody = replaceFunc(melody)
 
         time = str(datetime.strptime(end, '%H:%M') - datetime.strptime(start,'%H:%M')).split(':')
-        total = int(time[0])*60 + int(time[1]) # 분으로 환산
+        totalTime = int(time[0])*60 + int(time[1]) # 분으로 환산
 
-        totlaMelody = melody * (total // len(melody)) + melody[:(total%len(melody))]
+        totalMelody = melody * (totalTime // len(melody)) + melody[:(totalTime%len(melody))]
 
-        if m in totlaMelody:
-            answer.append([title,total])
+        if m in totalMelody:
+            answer.append([title,totalTime])
 
     if len(answer) == 1 :
         return answer[0][0]
