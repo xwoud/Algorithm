@@ -1,4 +1,6 @@
 def isFair(s):
+    if s%2 != 0 :
+        return False
     stack = []
     for ch in s:
         if ch == "(" or ch == "[" or ch == "{":
@@ -10,11 +12,8 @@ def isFair(s):
                 a = stack.pop()
                 mini = a+ch
                 if mini != "[]" and mini != "()" and mini != "{}":
-                    stack.append(a)
-    if len(stack) == 0 :
-        return True
-    else :
-        return False
+                    return False
+    return True
 
 def solution(s):
     answer = 0
@@ -25,4 +24,4 @@ def solution(s):
 
     return answer
 
-print(solution("}}}"))
+print(solution("({)}"))
