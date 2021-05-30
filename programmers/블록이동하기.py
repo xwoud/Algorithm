@@ -1,3 +1,4 @@
+
 from collections import deque
 
 def can_move(cur1, cur2, new_board):
@@ -42,5 +43,3 @@ def solution(board):
             if nxt not in confirm:
                 que.append((*nxt, count + 1))
                 confirm.add(nxt)
-
-solution([[0, 0, 0, 1, 1],[0, 0, 0, 1, 0],[0, 1, 0, 1, 1],[1, 1, 0, 0, 1],[0, 0, 0, 0, 0]])
