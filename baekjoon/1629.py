@@ -13,4 +13,3 @@ def power(a, b):
 
 
 a,b,c = map(int, sys.stdin.readline().split())
-print(power(a,b))
