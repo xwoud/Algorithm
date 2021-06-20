@@ -170,6 +170,7 @@
 | 06/06| 14501 - 퇴사| [퇴사.py](/baekjoon/14501.py)|[풀이](/풀이/풀이_14501.md)|다이나믹 프로그래밍(실버4)|
 | 06/19| LeetCode - 744| [744.py](/LeetCode/744.py)|[풀이](/풀이/풀이_LC744.md)|Binary Search|
 | 06/20| LeetCode - 441| [441.py](/LeetCode/441.py)|[풀이](/풀이/풀이_LC441.md)|Binary Search, Math |
+| 06/20| LeetCode - 118| [118.py](/LeetCode/118.py)|[풀이](/풀이/풀이_LC118.md)|Array|
 
 
 
