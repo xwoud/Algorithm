@@ -171,6 +171,7 @@
 | 06/19| LeetCode - 744| [744.py](/LeetCode/744.py)|[풀이](/풀이/풀이_LC744.md)|Binary Search|
 | 06/20| LeetCode - 441| [441.py](/LeetCode/441.py)|[풀이](/풀이/풀이_LC441.md)|Binary Search, Math |
 | 06/20| LeetCode - 118| [118.py](/LeetCode/118.py)|[풀이](/풀이/풀이_LC118.md)|Array|
+| 06/20| LeetCode - 605| [605.py](/LeetCode/605.py)|[풀이](/풀이/풀이_LC605.md)|Array, Greedy|
 
 
 
