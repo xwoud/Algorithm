@@ -176,6 +176,10 @@
 | 06/27| LeetCode - 217| [217.py](/LeetCode/217.py)|[풀이](/풀이/풀이_LC217.md)|Array, Hash Table, Sorting|
 | 06/27| LeetCode - 136| [136.py](/LeetCode/136.py)|[풀이](/풀이/풀이_LC136.md)|Array, Bit Manipulation|
 | 06/27| LeetCode - 167| [167.py](/LeetCode/167.py)|[풀이](/풀이/풀이_LC167.md)|Array, Two Pointers, Binary Search|
+| 07/04| LeetCode - 125| [125.py](/LeetCode/125.py)|[풀이](/풀이/풀이_LC125.md)|Two Pointer, String|
+| 07/04| LeetCode - 50| [50.py](/LeetCode/50.py)|[풀이](/풀이/풀이_LC50.md)|Math, Recursion|
+| 07/04| LeetCode - 58| [58.py](/LeetCode/58.py)|[풀이](/풀이/풀이_LC58.md)|String|
+| 07/04| LeetCode - 374| [374.py](/LeetCode/374.py)|[풀이](/풀이/풀이_LC374.md)|Binary Search, Interactive|
 
 
 
