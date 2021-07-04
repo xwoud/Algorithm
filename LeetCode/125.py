@@ -9,7 +9,3 @@ class Solution:
             return True
         else :
             return False
-
-
-my = Solution()
-print(my.isPalindrome("A man, a plan, a canal: Panama"))
