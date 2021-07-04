@@ -6,7 +6,7 @@
 class Solution:
 
     def guessNumber(self, n: int) -> int:
-        
+
         low = 1
         high = n
 
