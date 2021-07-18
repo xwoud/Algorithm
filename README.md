@@ -187,6 +187,7 @@
 | 07/18| LeetCode - 35| [35.py](/LeetCode/35.py)|[풀이](/풀이/풀이_LC35.md)|Array, inary Search|
 | 07/18| LeetCode - 66| [66.py](/LeetCode/66.py)|[풀이](/풀이/풀이_LC66.md)|Array, Math|
 | 07/18| LeetCode - 202| [202.py](/LeetCode/202.py)|[풀이](/풀이/풀이_LC202.md)|Math, Hash Table, Two Pointers|
+| 07/18| LeetCode - 268| [268.py](/LeetCode/268.py)|[풀이](/풀이/풀이_LC268.md)|Array, Hash Table, Bit Manipulation|
 
 
 
