@@ -188,6 +188,10 @@
 | 07/18| LeetCode - 66| [66.py](/LeetCode/66.py)|[풀이](/풀이/풀이_LC66.md)|Array, Math|
 | 07/18| LeetCode - 202| [202.py](/LeetCode/202.py)|[풀이](/풀이/풀이_LC202.md)|Math, Hash Table, Two Pointers|
 | 07/18| LeetCode - 268| [268.py](/LeetCode/268.py)|[풀이](/풀이/풀이_LC268.md)|Array, Hash Table, Bit Manipulation|
+| 07/25| LeetCode - 20| [20.py](/LeetCode/20.py)|[풀이](/풀이/풀이_LC20.md)|String, Stack|
+| 07/25| LeetCode - 21| [21.py](/LeetCode/21.py)|[풀이](/풀이/풀이_LC21.md)|Linked List, Recursion|
+| 07/25| LeetCode - 27| [27.py](/LeetCode/27.py)|[풀이](/풀이/풀이_LC27.md)|Array, Two Pointers|
+| 07/25| LeetCode - 28| [28.py](/LeetCode/28.py)|[풀이](/풀이/풀이_LC28.md)|Two Pointers, String, String Matching|
 
 
 
