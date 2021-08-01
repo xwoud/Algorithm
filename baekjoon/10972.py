@@ -33,14 +33,3 @@ if k == 0 :
 else :
     for i in num_list:
         print(i, end=' ')
-# import sys
-# import itertools
-#
-# n = int(sys.stdin.readline())
-# now_arr = tuple(map(int, sys.stdin.readline().split()))
-# nPr = list(itertools.permutations(list(range(1, n+1)), n))
-# if now_arr == nPr[-1] :
-#     print(-1)
-# else :
-#     for i in nPr[list(nPr).index(now_arr) + 1]:
-#         print(i,end = " ")
