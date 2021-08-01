@@ -4,6 +4,7 @@ n = int(sys.stdin.readline())
 r_answer = [int(sys.stdin.readline().rstrip()) for _ in range(n)]
 arr = []
 push = []
+
 for i in range(1,n+1,1):
     if len(arr) == 0 :
         arr.append(i)
