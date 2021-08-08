@@ -169,6 +169,7 @@
 | 08/01| 1339 - 단어수학| [단어수학.py](/baekjoon/1339.py)|[풀이](/풀이/풀이_1339.md)|그리디 알고리즘(골드4)|
 | 08/08| LeetCode - 155| [155.py](/LeetCode/155.py)|[풀이](/풀이/풀이_LC155.md)|Stack, Design|
 | 08/08| LeetCode - 169| [169.py](/LeetCode/169.py)|[풀이](/풀이/풀이_LC169.md)|Array, Hash Table, Sorting, Counting|
+| 08/08| LeetCode - 171| [169.py](/LeetCode/171.py)|[풀이](/풀이/풀이_LC171.md)|Math, String|
 
 <br>
 <br>
