@@ -1,34 +1,9 @@
-# 💜 Algorithm Study with Swift
-
-### 규칙 
-
-- 플랫폼 : 프로그래머스, 백준 등
-- 파이썬으로 풀어본 문제들도 swift 언어로 변형해서 풀어보기
-
-    | 날짜  | 제목   | 코드   | 비고   |
-    | ------------ | ------------ | ------------ | ------------ |
-    | 20.12.16 | 두 개 뽑아서 더하기| [두 개 뽑아서 더하기.swift](/SwiftAlgorithm/SwiftAlgorithm/두개뽑아서더하기.swift)| 완전 탐색|
-    | 20.12.16 | K번째 수| [K번째수.swift](/SwiftAlgorithm/SwiftAlgorithm/K번째수.swift)|배열 정렬|
-    | 20.12.17 | 2016년| [2016년.swift](/SwiftAlgorithm/SwiftAlgorithm/2016년.swift)|날짜|
-    | 20.12.18 | 두 정수 사이의 합| [두정수사이의합.swift](/SwiftAlgorithm/SwiftAlgorithm/두정수사이의합.swift)|정렬|
-    | 20.12.19 | 나누어 떨어지는 숫자 배열| [나누어떨어지는숫자배열.swift](/SwiftAlgorithm/SwiftAlgorithm/나누어떨어지는숫자배열.swift)|정렬|
-    | 20.12.19 | 시저 암호| [시저암호.swift](/SwiftAlgorithm/SwiftAlgorithm/시저암호.swift)|아스키코드|
-    | 20.12.21 | 내적| [내적.swift](/SwiftAlgorithm/SwiftAlgorithm/내적.swift)|월간 코드 챌린지 시즌1|
-    | 20.12.22 | 3진법 뒤집기| [3진법뒤집기.swift](/SwiftAlgorithm/SwiftAlgorithm/3진법뒤집기.swift)|월간 코드 챌린지 시즌1|
-    | 20.12.24 | x만큼 간격이 있는 n개의 숫자| [x만큼간격이있는n개의숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/x만큼간격이있는n개의숫자.swift)|크리스마스이브🎄|
-    | 20.01.23 | 문자열 다루기 기본| [문자열다루기기본.swift](/SwiftAlgorithm/SwiftAlgorithm/문자열다루기기본.swift)|문자열검사|
-    | 20.01.24 | 서울에서 김서방 찾기| [서울에서김서방찾기.swift](/SwiftAlgorithm/SwiftAlgorithm/서울에서김서방찾기.swift)|배열인덱스|
-    | 20.01.31 | 다음 큰 숫자| [다음큰숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/다음큰숫자.swift)| 2진수 |
-
-<br>
-<br>
-
 # 💚 Algorithm Study with Python
 
 ### 규칙
 
 - 플랫폼 : 프로그래머스, 백준
-- 기본 규칙 : 일주일에 4개의 알고리즘 완료
+- 기본 규칙 : 일주일에 4개의 알고리즘 완료(맹장)
 - [BFS , DFS 정리해보기](/풀이/BFS.md)
 
 
@@ -95,10 +70,6 @@
 | 11/7| 1260 - DFS와 BFS| [DFS와BFS.py](/baekjoon/1260.py)|[풀이](/풀이/풀이_1260.md)|그래프 탐색(실버2)|
 | 11/8| 11723 - 집합| [집합.py](/baekjoon/11723.py)|[풀이](/풀이/풀이_11723.md)|비트마스킹(실버5)|
 | 11/9| 1325 - 효율적인 해킹| [효율적인해킹.py](/baekjoon/1325.py)|[풀이](/풀이/풀이_1325.md)|그래프 탐색(실버2)|
-| 11/10| 1966 - 프린터 큐| [프린터큐.py](/baekjoon/1966.py)|[풀이](/풀이/풀이_1966.md)|큐(실버3)|
-| 11/11| 1874 - 스택 수열| [스택수열.py](/baekjoon/1874.py)|[풀이](/풀이/풀이_1874.md)|자료 구조, 스택(실버3)|
-| 11/12| 10972 - 다음 순열| [다음순열.py](/baekjoon/10972.py)|[풀이](/풀이/풀이_10972.md)|수학, 순열(실버3)|
-| 11/15| 1339 - 단어수학| [단어수학.py](/baekjoon/1339.py)|[풀이](/풀이/풀이_1339.md)|그리디 알고리즘(골드4)|
 | 11/17| 5567 - 결혼식| [결혼식.py](/baekjoon/5567.py)|[풀이](/풀이/풀이_5567.md)|너비 우선 탐색(실버1)|
 | 11/19| 2839 - 설탕 배달| [설탕배달.py](/baekjoon/2839.py)|[풀이](/풀이/풀이_2839.md)|그리디 알고리즘(브론즈1)|
 | 11/20| 11659 - 구간 합 구하기4| [구간합구하기4.py](/baekjoon/11659.py)|[풀이](/풀이/풀이_11659.md)|누적합(실버3)|
@@ -192,9 +163,35 @@
 | 07/25| LeetCode - 21| [21.py](/LeetCode/21.py)|[풀이](/풀이/풀이_LC21.md)|Linked List, Recursion|
 | 07/25| LeetCode - 27| [27.py](/LeetCode/27.py)|[풀이](/풀이/풀이_LC27.md)|Array, Two Pointers|
 | 07/25| LeetCode - 28| [28.py](/LeetCode/28.py)|[풀이](/풀이/풀이_LC28.md)|Two Pointers, String, String Matching|
+| 08/01| 1966 - 프린터 큐| [프린터큐.py](/baekjoon/1966.py)|[풀이](/풀이/풀이_1966.md)|큐(실버3)|
+| 08/01| 1874 - 스택 수열| [스택수열.py](/baekjoon/1874.py)|[풀이](/풀이/풀이_1874.md)|자료 구조, 스택(실버3)|
+| 08/01| 10972 - 다음 순열| [다음순열.py](/baekjoon/10972.py)|[풀이](/풀이/풀이_10972.md)|수학, 순열(실버3)|
+| 08/01| 1339 - 단어수학| [단어수학.py](/baekjoon/1339.py)|[풀이](/풀이/풀이_1339.md)|그리디 알고리즘(골드4)|
 
+<br>
+<br>
 
+# 💜 Algorithm Study with Swift
 
+### 규칙 
+
+- 플랫폼 : 프로그래머스, 백준 등
+- 파이썬으로 풀어본 문제들도 swift 언어로 변형해서 풀어보기
+
+    | 날짜  | 제목   | 코드   | 비고   |
+    | ------------ | ------------ | ------------ | ------------ |
+    | 20.12.16 | 두 개 뽑아서 더하기| [두 개 뽑아서 더하기.swift](/SwiftAlgorithm/SwiftAlgorithm/두개뽑아서더하기.swift)| 완전 탐색|
+    | 20.12.16 | K번째 수| [K번째수.swift](/SwiftAlgorithm/SwiftAlgorithm/K번째수.swift)|배열 정렬|
+    | 20.12.17 | 2016년| [2016년.swift](/SwiftAlgorithm/SwiftAlgorithm/2016년.swift)|날짜|
+    | 20.12.18 | 두 정수 사이의 합| [두정수사이의합.swift](/SwiftAlgorithm/SwiftAlgorithm/두정수사이의합.swift)|정렬|
+    | 20.12.19 | 나누어 떨어지는 숫자 배열| [나누어떨어지는숫자배열.swift](/SwiftAlgorithm/SwiftAlgorithm/나누어떨어지는숫자배열.swift)|정렬|
+    | 20.12.19 | 시저 암호| [시저암호.swift](/SwiftAlgorithm/SwiftAlgorithm/시저암호.swift)|아스키코드|
+    | 20.12.21 | 내적| [내적.swift](/SwiftAlgorithm/SwiftAlgorithm/내적.swift)|월간 코드 챌린지 시즌1|
+    | 20.12.22 | 3진법 뒤집기| [3진법뒤집기.swift](/SwiftAlgorithm/SwiftAlgorithm/3진법뒤집기.swift)|월간 코드 챌린지 시즌1|
+    | 20.12.24 | x만큼 간격이 있는 n개의 숫자| [x만큼간격이있는n개의숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/x만큼간격이있는n개의숫자.swift)|크리스마스이브🎄|
+    | 20.01.23 | 문자열 다루기 기본| [문자열다루기기본.swift](/SwiftAlgorithm/SwiftAlgorithm/문자열다루기기본.swift)|문자열검사|
+    | 20.01.24 | 서울에서 김서방 찾기| [서울에서김서방찾기.swift](/SwiftAlgorithm/SwiftAlgorithm/서울에서김서방찾기.swift)|배열인덱스|
+    | 20.01.31 | 다음 큰 숫자| [다음큰숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/다음큰숫자.swift)| 2진수 |
 
 
 

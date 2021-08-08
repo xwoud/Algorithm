@@ -20,3 +20,4 @@ for i in range(case):
                 arr.append(arr.popleft())
                 check.append(check.pop(0))
         print(count)
+        

@@ -3,6 +3,7 @@ import sys
 
 input = sys.stdin.readline
 n = int(input())
+
 s = []
 for i in range(n): s.append(list(input().strip()))
 a = [0 for i in range(26)]
