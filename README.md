@@ -174,7 +174,7 @@
 | 08/22| LeetCode - 204| [204.py](/LeetCode/204.py)|[풀이](/풀이/풀이_LC204.md)|Math, Array, Enumeration, Number Theory|
 | 08/22| LeetCode - 228| [228.py](/LeetCode/228.py)|[풀이](/풀이/풀이_LC228.md)|Array|
 | 08/22| LeetCode - 242| [242.py](/LeetCode/242.py)|[풀이](/풀이/풀이_LC242.md)|Hash Table, String, Sorting|
-| 08/22| LeetCode - 238| [238.py](/LeetCode/238.py)|[풀이](/풀이/풀이_LC238.md)|Array, Two Pointers|
+| 08/22| LeetCode - 283| [283.py](/LeetCode/283.py)|[풀이](/풀이/풀이_LC283.md)|Array, Two Pointers|
 
 <br>
 <br>
