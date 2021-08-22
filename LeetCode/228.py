@@ -12,7 +12,3 @@ class Solution:
             end = start
 
         return answer
-
-
-my = Solution()
-print(my.summaryRanges([-4,-3,-2]))
