@@ -175,6 +175,10 @@
 | 08/22| LeetCode - 228| [228.py](/LeetCode/228.py)|[풀이](/풀이/풀이_LC228.md)|Array|
 | 08/22| LeetCode - 242| [242.py](/LeetCode/242.py)|[풀이](/풀이/풀이_LC242.md)|Hash Table, String, Sorting|
 | 08/22| LeetCode - 283| [283.py](/LeetCode/283.py)|[풀이](/풀이/풀이_LC283.md)|Array, Two Pointers|
+| 08/29| LeetCode - 258| [258.py](/LeetCode/258.py)|[풀이](/풀이/풀이_LC258.md)|Math, Simulation, Number Theory|
+| 08/29| LeetCode - 263| [263.py](/LeetCode/263.py)|[풀이](/풀이/풀이_LC263.md)|Math|
+| 08/29| LeetCode - 290| [290.py](/LeetCode/290.py)|[풀이](/풀이/풀이_LC290.md)|Hash Table, String|
+| 08/29| LeetCode - 326| [326.py](/LeetCode/326.py)|[풀이](/풀이/풀이_LC326.md)|Math, Recursion|
 
 <br>
 <br>
