@@ -2,6 +2,7 @@ from itertools import combinations
 from collections import Counter
 
 def solution(orders, course):
+    
     answer = []
     for i in course:
         number = []
@@ -11,4 +12,5 @@ def solution(orders, course):
             if b == max(Counter(number).values()) and max(Counter(number).values()) > 1:
                 answer.append(a)
     answer.sort()
+    
     return answer
