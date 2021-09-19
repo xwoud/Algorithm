@@ -183,6 +183,10 @@
 | 09/12| LeetCode - 345| [345.py](/LeetCode/345.py)|[풀이](/풀이/풀이_LC345.md)|Two Pointers, String|
 | 09/12| LeetCode - 349| [349.py](/LeetCode/349.py)|[풀이](/풀이/풀이_LC349.md)|Array, Hash Table, Two Pointers, Binary Search, Sorting|
 | 09/12| LeetCode - 412| [412.py](/LeetCode/412.py)|[풀이](/풀이/풀이_LC412.md)|Math, String, Simulation|
+| 09/19| LeetCode - 387| [387.py](/LeetCode/387.py)|[풀이](/풀이/풀이_LC387.md)|Hash Table, String, Queue, Counting|
+| 09/19| LeetCode - 383| [383.py](/LeetCode/383.py)|[풀이](/풀이/풀이_LC383.md)|Hash Table, String, Couting|
+| 09/19| LeetCode - 415| [415.py](/LeetCode/415.py)|[풀이](/풀이/풀이_LC415.md)| Math, String, Simulation|
+| 09/19| LeetCode - 448| [448.py](/LeetCode/448.py)|[풀이](/풀이/풀이_LC448.md)|Array, Hash Table|
 <br>
 <br>
 
