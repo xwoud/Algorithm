@@ -187,6 +187,10 @@
 | 09/19| LeetCode - 383| [383.py](/LeetCode/383.py)|[풀이](/풀이/풀이_LC383.md)|Hash Table, String, Couting|
 | 09/19| LeetCode - 415| [415.py](/LeetCode/415.py)|[풀이](/풀이/풀이_LC415.md)| Math, String, Simulation|
 | 09/19| LeetCode - 448| [448.py](/LeetCode/448.py)|[풀이](/풀이/풀이_LC448.md)|Array, Hash Table|
+| 09/26| LeetCode - 453| [453.py](/LeetCode/453.py)|[풀이](/풀이/풀이_LC453.md)|Array, Math|
+| 09/26| LeetCode - 459| [459.py](/LeetCode/459.py)|[풀이](/풀이/풀이_LC459.md)|String, String Matching|
+| 09/26| LeetCode - 476| [476.py](/LeetCode/476.py)|[풀이](/풀이/풀이_LC476.md)|Bit Manipulation|
+| 09/26| LeetCode - 485| [485.py](/LeetCode/485.py)|[풀이](/풀이/풀이_LC485.md)|Array|
 <br>
 <br>
 
