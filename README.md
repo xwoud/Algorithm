@@ -175,10 +175,6 @@
 | 08/29| LeetCode - 263| [263.py](/LeetCode/263.py)|[풀이](/풀이/풀이_LC263.md)|Math|
 | 08/29| LeetCode - 290| [290.py](/LeetCode/290.py)|[풀이](/풀이/풀이_LC290.md)|Hash Table, String|
 | 08/29| LeetCode - 326| [326.py](/LeetCode/326.py)|[풀이](/풀이/풀이_LC326.md)|Math, Recursion|
-| 09/05| 폰켓몬 | [폰켓몬.py](/programmers/폰켓몬.py)|[풀이](/풀이/풀이_폰켓몬.md)|찾아라 프로그래밍 마에스터|
-| 09/05| 최댓값과 최솟값 | [최댓값과최솟값.py](/programmers/최댓값과최솟값.py)|[풀이](/풀이/풀이_최댓값과최솟값.md)|최댓값과 최솟값|
-| 09/05| 메뉴 리뉴얼 | [메뉴리뉴얼.py](/programmers/메뉴리뉴얼.py)|[풀이](/풀이/풀이_메뉴리뉴얼.md)|2021 KAKAO BLIND RECRUITMENT|
-| 09/05| 짝지어 제거하기 | [짝지어 제거하기.py](/programmers/짝지어제거하기.py)|[풀이](/풀이/풀이_짝지어제거하기.md)|2017 팁스타운|
 | 09/12| LeetCode - 342| [342.py](/LeetCode/342.py)|[풀이](/풀이/풀이_LC342.md)|Math, Bit MAnipulation, Recursion|
 | 09/12| LeetCode - 345| [345.py](/LeetCode/345.py)|[풀이](/풀이/풀이_LC345.md)|Two Pointers, String|
 | 09/12| LeetCode - 349| [349.py](/LeetCode/349.py)|[풀이](/풀이/풀이_LC349.md)|Array, Hash Table, Two Pointers, Binary Search, Sorting|
@@ -195,6 +191,10 @@
 | 10/03| LeetCode - 500| [500.py](/LeetCode/500.py)|[풀이](/풀이/풀이_LC500.md)|Array, Hash Table, String|
 | 10/03| LeetCode - 507| [507.py](/LeetCode/507.py)|[풀이](/풀이/풀이_LC507.md)|Math|
 | 10/03| LeetCode - 520| [520.py](/LeetCode/520.py)|[풀이](/풀이/풀이_LC520.md)|String|
+| 10/10| 폰켓몬 | [폰켓몬.py](/programmers/폰켓몬.py)|[풀이](/풀이/풀이_폰켓몬.md)|찾아라 프로그래밍 마에스터|
+| 10/10| 최댓값과 최솟값 | [최댓값과최솟값.py](/programmers/최댓값과최솟값.py)|[풀이](/풀이/풀이_최댓값과최솟값.md)|최댓값과 최솟값|
+| 10/10| 메뉴 리뉴얼 | [메뉴리뉴얼.py](/programmers/메뉴리뉴얼.py)|[풀이](/풀이/풀이_메뉴리뉴얼.md)|2021 KAKAO BLIND RECRUITMENT|
+| 10/10| 짝지어 제거하기 | [짝지어 제거하기.py](/programmers/짝지어제거하기.py)|[풀이](/풀이/풀이_짝지어제거하기.md)|2017 팁스타운|
 
 
 <br>
