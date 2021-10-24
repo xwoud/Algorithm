@@ -195,6 +195,10 @@
 | 10/10| 최댓값과 최솟값 | [최댓값과최솟값.py](/programmers/최댓값과최솟값.py)|[풀이](/풀이/풀이_최댓값과최솟값.md)|최댓값과 최솟값|
 | 10/10| 메뉴 리뉴얼 | [메뉴리뉴얼.py](/programmers/메뉴리뉴얼.py)|[풀이](/풀이/풀이_메뉴리뉴얼.md)|2021 KAKAO BLIND RECRUITMENT|
 | 10/10| 짝지어 제거하기 | [짝지어 제거하기.py](/programmers/짝지어제거하기.py)|[풀이](/풀이/풀이_짝지어제거하기.md)|2017 팁스타운|
+| 10/24| LeetCode - 541| [541.py](/LeetCode/541.py)|[풀이](/풀이/풀이_LC541.md)|Two Pointers, String|
+| 10/24| LeetCode - 551| [551.py](/LeetCode/551.py)|[풀이](/풀이/풀이_LC551.md)|String|
+| 10/24| LeetCode - 561| [561.py](/LeetCode/561.py)|[풀이](/풀이/풀이_LC561.md)|Array, Greedy, Sorting, Counting Sort|
+| 10/24| LeetCode - 557| [557.py](/LeetCode/557.py)|[풀이](/풀이/풀이_LC557.md)|Two Pointers, String|
 
 
 <br>
