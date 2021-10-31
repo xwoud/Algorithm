@@ -199,6 +199,11 @@
 | 10/24| LeetCode - 551| [551.py](/LeetCode/551.py)|[풀이](/풀이/풀이_LC551.md)|String|
 | 10/24| LeetCode - 561| [561.py](/LeetCode/561.py)|[풀이](/풀이/풀이_LC561.md)|Array, Greedy, Sorting, Counting Sort|
 | 10/24| LeetCode - 557| [557.py](/LeetCode/557.py)|[풀이](/풀이/풀이_LC557.md)|Two Pointers, String|
+| 10/31| LeetCode - 682| [682.py](/LeetCode/682.py)|[풀이](/풀이/풀이_LC682.md)|Array, Stack, Simulation|
+| 10/31| LeetCode - 724| [724.py](/LeetCode/724.py)|[풀이](/풀이/풀이_LC724.md)|Array, Prefix Sum|
+| 10/31| LeetCode - 168| [168.py](/LeetCode/168.py)|[풀이](/풀이/풀이_LC168.md)|Math, String|
+| 10/31| LeetCode - 205| [205.py](/LeetCode/205.py)|[풀이](/풀이/풀이_LC205.md)|Hash Table, String|
+
 
 
 <br>
