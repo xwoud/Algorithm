@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		19DE9223274021C2001B0C30 /* Maximum Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DE9222274021C2001B0C30 /* Maximum Subarray.swift */; };
+		19DE9223274021C2001B0C30 /* MaximumSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DE9222274021C2001B0C30 /* MaximumSubarray.swift */; };
 		9BA87A7525890FB700C53002 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA87A6925890ECA00C53002 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -24,7 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		19DE9222274021C2001B0C30 /* Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Subarray.swift"; sourceTree = "<group>"; };
+		19DE9222274021C2001B0C30 /* MaximumSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSubarray.swift; sourceTree = "<group>"; };
 		9B10FF6E258DD392006BF7C5 /* 나누어떨어지는숫자배열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "나누어떨어지는숫자배열.swift"; sourceTree = "<group>"; };
 		9B10FF71258DD688006BF7C5 /* 시저암호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "시저암호.swift"; sourceTree = "<group>"; };
 		9B30B3F825BD6E790032FDC2 /* 서울에서김서방찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "서울에서김서방찾기.swift"; sourceTree = "<group>"; };
@@ -84,7 +84,7 @@
 				9B44A07325BBFD9200E3D554 /* 문자열다루기기본.swift */,
 				9B30B3F825BD6E790032FDC2 /* 서울에서김서방찾기.swift */,
 				9B8D966725C6F17500774571 /* 다음큰숫자.swift */,
-				19DE9222274021C2001B0C30 /* Maximum Subarray.swift */,
+				19DE9222274021C2001B0C30 /* MaximumSubarray.swift */,
 			);
 			path = SwiftAlgorithm;
 			sourceTree = "<group>";
@@ -146,7 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				19DE9223274021C2001B0C30 /* Maximum Subarray.swift in Sources */,
+				19DE9223274021C2001B0C30 /* MaximumSubarray.swift in Sources */,
 				9BA87A7525890FB700C53002 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

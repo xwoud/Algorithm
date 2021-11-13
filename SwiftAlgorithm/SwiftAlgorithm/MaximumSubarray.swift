@@ -1,5 +1,5 @@
 //
-//  Maximum Subarray.swift
+//  MaximumSubarray.swift
 //  SwiftAlgorithm
 //
 //  Created by 미니 on 2021/11/14.

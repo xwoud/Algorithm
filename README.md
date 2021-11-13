@@ -203,6 +203,10 @@
 | 10/31| LeetCode - 724| [724.py](/LeetCode/724.py)|[풀이](/풀이/풀이_LC724.md)|Array, Prefix Sum|
 | 10/31| LeetCode - 168| [168.py](/LeetCode/168.py)|[풀이](/풀이/풀이_LC168.md)|Math, String|
 | 10/31| LeetCode - 205| [205.py](/LeetCode/205.py)|[풀이](/풀이/풀이_LC205.md)|Hash Table, String|
+| 11/14| LeetCode - 506| [506.py](/LeetCode/506.py)|[풀이](/풀이/풀이_LC506.md)|Array, Sorting, Heap(Priority Queue)|
+| 11/14| LeetCode - 70| [70.py](/LeetCode/70.py)|[풀이](/풀이/풀이_LC70.md)|Math, Dynamic Programming, Memoization|
+| 11/14| LeetCode - 392| [392.py](/LeetCode/392.py)|[풀이](/풀이/풀이_LC392.md)|Two Pointers, String, Dynamic Programming|
+
 
 
 
@@ -230,6 +234,7 @@
     | 20.01.23 | 문자열 다루기 기본| [문자열다루기기본.swift](/SwiftAlgorithm/SwiftAlgorithm/문자열다루기기본.swift)|문자열검사|
     | 20.01.24 | 서울에서 김서방 찾기| [서울에서김서방찾기.swift](/SwiftAlgorithm/SwiftAlgorithm/서울에서김서방찾기.swift)|배열인덱스|
     | 20.01.31 | 다음 큰 숫자| [다음큰숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/다음큰숫자.swift)| 2진수 |
+    | 21.11.14 | Maximum Subarray| [Maximum Subarray.swift](/SwiftAlgorithm/SwiftAlgorithm/MaximumSubarray.swift)| Array, Divide and Conquer, Dynamic Programming |
 
 
 
