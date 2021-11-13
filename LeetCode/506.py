@@ -16,5 +16,5 @@ class Solution:
 
         for i in range(0, len(score)):
             ret.append(myDict[score[i]])
-            
+
         return ret
