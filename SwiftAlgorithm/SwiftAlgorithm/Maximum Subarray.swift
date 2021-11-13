@@ -24,4 +24,5 @@ func maxSubArray(_ nums: [Int]) -> Int {
         result = max(maxSub, result)
     }
     return result
+    
 }
