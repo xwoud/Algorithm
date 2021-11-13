@@ -13,8 +13,8 @@ import Foundation
 
 
 func maxSubArray(_ nums: [Int]) -> Int {
-    if nums.isEmpty {
-        return 0
+    if nums.count == 1 {
+        return nums[0]
     }
     
     var result = nums[0]
