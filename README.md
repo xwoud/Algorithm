@@ -239,6 +239,11 @@
     | 21.11.21 | 나머지가 1이 되는 수 찾기| [나머지가 1이 되는 수 찾기.swift](/SwiftAlgorithm/SwiftAlgorithm/나머지가1이되는수찾기.swift)| 월간 코드 챌린지 시즌3 |
     | 21.11.21 | 가운데 글자 가져오기| [가운데 글자 가져오기.swift](/SwiftAlgorithm/SwiftAlgorithm/가운데글자가져오기.swift)| 슬라이싱 |
     | 21.11.21 | 핸드폰 번호 가리기| [핸드폰 번호 가리기.swift](/SwiftAlgorithm/SwiftAlgorithm/핸드폰번호가리기.swift)| 인덱싱 |
+    | 21.11.28 | 자릿수 더하기| [자릿수 더하기.swift](/SwiftAlgorithm/SwiftAlgorithm/자릿수더하기.swift)| reduce |
+    | 21.11.28 | 행렬의 덧셈| [행렬의 덧셈.swift](/SwiftAlgorithm/SwiftAlgorithm/행렬의덧셈.swift)| zip, map |
+    | 21.11.28 | 평균 구하기| [평균 구하기.swift](/SwiftAlgorithm/SwiftAlgorithm/평균구하기.swift)| reduce |
+    | 21.11.28 | 문자열을 정수로 바꾸기| [문자열을 정수로 바꾸기.swift](/SwiftAlgorithm/SwiftAlgorithm/문자열을정수로바꾸기.swift)| 형변환 |
+                
     
     
     
