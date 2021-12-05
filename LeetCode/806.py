@@ -13,6 +13,3 @@ class Solution:
                 lastPixels = 0
             lastPixels += pixel
         return [lines, lastPixels]
-
-my = Solution()
-print(my.numberOfLines(widths=[10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10], s="abcdefghijklmnopqrstuvwxyz"))
