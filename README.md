@@ -206,6 +206,10 @@
 | 11/14| LeetCode - 506| [506.py](/LeetCode/506.py)|[풀이](/풀이/풀이_LC506.md)|Array, Sorting, Heap(Priority Queue)|
 | 11/14| LeetCode - 70| [70.py](/LeetCode/70.py)|[풀이](/풀이/풀이_LC70.md)|Math, Dynamic Programming, Memoization|
 | 11/14| LeetCode - 392| [392.py](/LeetCode/392.py)|[풀이](/풀이/풀이_LC392.md)|Two Pointers, String, Dynamic Programming|
+| 12/05| LeetCode - 796| [796.py](/LeetCode/796.py)|[풀이](/풀이/풀이_LC796.md)|String, String Matching|
+| 12/05| LeetCode - 804| [804.py](/LeetCode/804.py)|[풀이](/풀이/풀이_LC804.md)|Array, Hash Table, String|
+| 12/05| LeetCode - 806| [806.py](/LeetCode/806.py)|[풀이](/풀이/풀이_LC806.md)|Array, String|
+| 12/05| LeetCode - 819| [819.py](/LeetCode/819.py)|[풀이](/풀이/풀이_LC819.md)|Hash Table, String|
 
 
 
