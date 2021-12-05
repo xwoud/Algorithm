@@ -18,3 +18,5 @@ class Solution:
         divisors.pop()
         if sum(divisors) == num: return True
         else: return False
+my = Solution()
+print(my.getMyDivisor(n=18))
