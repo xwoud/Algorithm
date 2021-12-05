@@ -8,6 +8,3 @@ class Solution:
             if s == goal: return True
             n += 1
         return False
-
-my = Solution()
-print(my.rotateString(s="abcde",goal="cdeab"))
