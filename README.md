@@ -210,6 +210,11 @@
 | 12/05| LeetCode - 804| [804.py](/LeetCode/804.py)|[풀이](/풀이/풀이_LC804.md)|Array, Hash Table, String|
 | 12/05| LeetCode - 806| [806.py](/LeetCode/806.py)|[풀이](/풀이/풀이_LC806.md)|Array, String|
 | 12/05| LeetCode - 819| [819.py](/LeetCode/819.py)|[풀이](/풀이/풀이_LC819.md)|Hash Table, String|
+| 12/12| LeetCode - 821| [821.py](/LeetCode/821.py)|[풀이](/풀이/풀이_LC821.md)|Array, Two Pointers, String|
+| 12/12| LeetCode - 824| [824.py](/LeetCode/824.py)|[풀이](/풀이/풀이_LC824.md)|String|
+| 12/12| LeetCode - 830| [830.py](/LeetCode/830.py)|[풀이](/풀이/풀이_LC830.md)|String|
+| 12/12| LeetCode - 836| [836.py](/LeetCode/836.py)|[풀이](/풀이/풀이_LC836.md)|Math, Geometry|
+
 
 
 
