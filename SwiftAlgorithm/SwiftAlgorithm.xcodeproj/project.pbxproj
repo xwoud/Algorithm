@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		19720FD42778AFFA00A71E31 /* 부족한금액계산하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19720FD32778AFFA00A71E31 /* 부족한금액계산하기.swift */; };
 		198BA2B02753BC4900BC027E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA87A6925890ECA00C53002 /* main.swift */; };
 		19DE9223274021C2001B0C30 /* MaximumSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19DE9222274021C2001B0C30 /* MaximumSubarray.swift */; };
 /* End PBXBuildFile section */
@@ -26,6 +27,7 @@
 /* Begin PBXFileReference section */
 		19720FCF2778A99700A71E31 /* 숫자문자열과영단어.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "숫자문자열과영단어.swift"; sourceTree = "<group>"; };
 		19720FD12778ADCC00A71E31 /* 문자열내p와y의개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열내p와y의개수.swift"; sourceTree = "<group>"; };
+		19720FD32778AFFA00A71E31 /* 부족한금액계산하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "부족한금액계산하기.swift"; sourceTree = "<group>"; };
 		19859AFC274A886800E658B9 /* 나머지가1이되는수찾기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "나머지가1이되는수찾기.swift"; sourceTree = "<group>"; };
 		19859AFD274A886800E658B9 /* 가운데글자가져오기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "가운데글자가져오기.swift"; sourceTree = "<group>"; };
 		19859AFE274A886800E658B9 /* 없는숫자더하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "없는숫자더하기.swift"; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				19A659B32778536800F56268 /* 소수찾기.swift */,
 				19720FCF2778A99700A71E31 /* 숫자문자열과영단어.swift */,
 				19720FD12778ADCC00A71E31 /* 문자열내p와y의개수.swift */,
+				19720FD32778AFFA00A71E31 /* 부족한금액계산하기.swift */,
 			);
 			path = SwiftAlgorithm;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				198BA2B02753BC4900BC027E /* main.swift in Sources */,
+				19720FD42778AFFA00A71E31 /* 부족한금액계산하기.swift in Sources */,
 				19DE9223274021C2001B0C30 /* MaximumSubarray.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
