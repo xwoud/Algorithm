@@ -252,6 +252,10 @@
     | 21.11.28 | 행렬의 덧셈| [행렬의 덧셈.swift](/SwiftAlgorithm/SwiftAlgorithm/행렬의덧셈.swift)| zip, map |
     | 21.11.28 | 평균 구하기| [평균 구하기.swift](/SwiftAlgorithm/SwiftAlgorithm/평균구하기.swift)| reduce |
     | 21.11.28 | 문자열을 정수로 바꾸기| [문자열을 정수로 바꾸기.swift](/SwiftAlgorithm/SwiftAlgorithm/문자열을정수로바꾸기.swift)| 형변환 |
+    | 21.12.26 | 소수 찾기| [소수 찾기.swift](/SwiftAlgorithm/SwiftAlgorithm/소수찾기.swift)| 소수 |
+    | 21.12.26 |숫자 문자열과 영단어| [숫자 문자열과 영단어.swift](/SwiftAlgorithm/SwiftAlgorithm/숫자문자열과영단어.swift)| 변환 |
+    | 21.12.26 | 문자열 내 p와 y의 개수| [문자열 내 p와 y의 개수.swift](/SwiftAlgorithm/SwiftAlgorithm/문자열내p와y의개수.swift)| filter |
+    | 21.12.26 | 부족한 금액 계산하기| [부족한 금액 계산하기.swift](/SwiftAlgorithm/SwiftAlgorithm/부족한금액계산하기.swift)| 삼단논법 |
                 
     
     
