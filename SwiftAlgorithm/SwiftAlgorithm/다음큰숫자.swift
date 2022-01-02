@@ -2,7 +2,7 @@
 //  소수만들기.swift
 //  SwiftAlgorithm
 //
-//  Created by 김민희 on 2021/01/31.
+//  Created by 김민희 on 2022/01/02.
 //
 
 import Foundation
