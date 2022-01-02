@@ -4,7 +4,6 @@
 # def guess(num: int) -> int:
 
 class Solution:
-
     def guessNumber(self, n: int) -> int:
 
         low = 1
