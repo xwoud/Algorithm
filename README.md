@@ -146,7 +146,6 @@
 | 07/04| LeetCode - 125| [125.py](/LeetCode/125.py)|[풀이](/풀이/풀이_LC125.md)|Two Pointer, String|
 | 07/04| LeetCode - 50| [50.py](/LeetCode/50.py)|[풀이](/풀이/풀이_LC50.md)|Math, Recursion|
 | 07/04| LeetCode - 58| [58.py](/LeetCode/58.py)|[풀이](/풀이/풀이_LC58.md)|String|
-| 07/04| LeetCode - 374| [374.py](/LeetCode/374.py)|[풀이](/풀이/풀이_LC374.md)|Binary Search, Interactive|
 | 07/11| LeetCode - 14| [14.py](/LeetCode/14.py)|[풀이](/풀이/풀이_LC14.md)|String|
 | 07/11| LeetCode - 1528| [1528.py](/LeetCode/1528.py)|[풀이](/풀이/풀이_LC1528.md)|Array, String|
 | 07/11| LeetCode - 278| [278.py](/LeetCode/278.py)|[풀이](/풀이/풀이_LC278.md)|Binary Search, Interactive|
@@ -214,6 +213,7 @@
 | 12/12| LeetCode - 824| [824.py](/LeetCode/824.py)|[풀이](/풀이/풀이_LC824.md)|String|
 | 12/12| LeetCode - 830| [830.py](/LeetCode/830.py)|[풀이](/풀이/풀이_LC830.md)|String|
 | 12/12| LeetCode - 836| [836.py](/LeetCode/836.py)|[풀이](/풀이/풀이_LC836.md)|Math, Geometry|
+| 01/02| LeetCode - 374| [374.py](/LeetCode/374.py)|[풀이](/풀이/풀이_LC374.md)|Binary Search, Interactive|
 
 
 
@@ -231,7 +231,6 @@
 
     | 날짜  | 제목   | 코드   | 비고   |
     | ------------ | ------------ | ------------ | ------------ |
-    | 20.12.16 | 두 개 뽑아서 더하기| [두 개 뽑아서 더하기.swift](/SwiftAlgorithm/SwiftAlgorithm/두개뽑아서더하기.swift)| 완전 탐색|
     | 20.12.16 | K번째 수| [K번째수.swift](/SwiftAlgorithm/SwiftAlgorithm/K번째수.swift)|배열 정렬|
     | 20.12.17 | 2016년| [2016년.swift](/SwiftAlgorithm/SwiftAlgorithm/2016년.swift)|날짜|
     | 20.12.18 | 두 정수 사이의 합| [두정수사이의합.swift](/SwiftAlgorithm/SwiftAlgorithm/두정수사이의합.swift)|정렬|
@@ -242,12 +241,10 @@
     | 20.12.24 | x만큼 간격이 있는 n개의 숫자| [x만큼간격이있는n개의숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/x만큼간격이있는n개의숫자.swift)|크리스마스이브🎄|
     | 20.01.23 | 문자열 다루기 기본| [문자열다루기기본.swift](/SwiftAlgorithm/SwiftAlgorithm/문자열다루기기본.swift)|문자열검사|
     | 20.01.24 | 서울에서 김서방 찾기| [서울에서김서방찾기.swift](/SwiftAlgorithm/SwiftAlgorithm/서울에서김서방찾기.swift)|배열인덱스|
-    | 20.01.31 | 다음 큰 숫자| [다음큰숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/다음큰숫자.swift)| 2진수 |
     | 21.11.14 | Maximum Subarray| [Maximum Subarray.swift](/SwiftAlgorithm/SwiftAlgorithm/MaximumSubarray.swift)| Array, Divide and Conquer, Dynamic Programming |
     | 21.11.21 | 없는 숫자 더하기| [없는 숫자 더하기.swift](/SwiftAlgorithm/SwiftAlgorithm/없는숫자더하기.swift)| 월간 코드 챌린지 시즌3 |
     | 21.11.21 | 나머지가 1이 되는 수 찾기| [나머지가 1이 되는 수 찾기.swift](/SwiftAlgorithm/SwiftAlgorithm/나머지가1이되는수찾기.swift)| 월간 코드 챌린지 시즌3 |
     | 21.11.21 | 가운데 글자 가져오기| [가운데 글자 가져오기.swift](/SwiftAlgorithm/SwiftAlgorithm/가운데글자가져오기.swift)| 슬라이싱 |
-    | 21.11.21 | 핸드폰 번호 가리기| [핸드폰 번호 가리기.swift](/SwiftAlgorithm/SwiftAlgorithm/핸드폰번호가리기.swift)| 인덱싱 |
     | 21.11.28 | 자릿수 더하기| [자릿수 더하기.swift](/SwiftAlgorithm/SwiftAlgorithm/자릿수더하기.swift)| reduce |
     | 21.11.28 | 행렬의 덧셈| [행렬의 덧셈.swift](/SwiftAlgorithm/SwiftAlgorithm/행렬의덧셈.swift)| zip, map |
     | 21.11.28 | 평균 구하기| [평균 구하기.swift](/SwiftAlgorithm/SwiftAlgorithm/평균구하기.swift)| reduce |
@@ -256,6 +253,9 @@
     | 21.12.26 |숫자 문자열과 영단어| [숫자 문자열과 영단어.swift](/SwiftAlgorithm/SwiftAlgorithm/숫자문자열과영단어.swift)| 변환 |
     | 21.12.26 | 문자열 내 p와 y의 개수| [문자열 내 p와 y의 개수.swift](/SwiftAlgorithm/SwiftAlgorithm/문자열내p와y의개수.swift)| filter |
     | 21.12.26 | 부족한 금액 계산하기| [부족한 금액 계산하기.swift](/SwiftAlgorithm/SwiftAlgorithm/부족한금액계산하기.swift)| 삼단논법 |
+    | 22.01.02 | 다음 큰 숫자| [다음큰숫자.swift](/SwiftAlgorithm/SwiftAlgorithm/다음큰숫자.swift)| 2진수 |
+    | 22.01.02 | 핸드폰 번호 가리기| [핸드폰 번호 가리기.swift](/SwiftAlgorithm/SwiftAlgorithm/핸드폰번호가리기.swift)| 인덱싱 |
+    | 22.01.02 | 두 개 뽑아서 더하기| [두 개 뽑아서 더하기.swift](/SwiftAlgorithm/SwiftAlgorithm/두개뽑아서더하기.swift)| 완전 탐색|
                 
     
     
