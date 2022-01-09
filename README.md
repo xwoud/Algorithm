@@ -214,7 +214,10 @@
 | 12/12| LeetCode - 830| [830.py](/LeetCode/830.py)|[풀이](/풀이/풀이_LC830.md)|String|
 | 12/12| LeetCode - 836| [836.py](/LeetCode/836.py)|[풀이](/풀이/풀이_LC836.md)|Math, Geometry|
 | 01/02| LeetCode - 374| [374.py](/LeetCode/374.py)|[풀이](/풀이/풀이_LC374.md)|Binary Search, Interactive|
-
+| 01/09| 모음사전| [모음사전.py](/programmers/모음사전.py)|[풀이](/풀이/풀이_모음사전.md)|위클리 챌린지 |
+| 01/09| 교점에 별 만들기| [모음사전.py](/programmers/교점에 별 만들기.py)|[풀이](/풀이/풀이_교점에별만들기.md)|위클리 챌린지 |
+| 01/09| 피로도| [피로도.py](/programmers/피로도.py)|[풀이](/풀이/풀이_피로도.md)|위클리 챌린지 |
+| 01/09| 2개 이하로 다른 비트| [2개 이하로 다른 비트.py](/programmers/2개이하로다른비트.py)|[풀이](/풀이/풀이_2개이하로다른비트.md)| 월간 코드 챌린지 시즌2 |
 
 
 
