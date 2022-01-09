@@ -21,7 +21,7 @@ func pairString(_ p : String) -> Bool {
     return stack.isEmpty
 }
 
-func transform(_ p : String) -> String {
+func solution(_ p : String) -> String {
 
     if p.isEmpty { return ""}
     else if pairString(p) { return p }
