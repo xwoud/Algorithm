@@ -218,6 +218,11 @@
 | 01/09| 교점에 별 만들기| [모음사전.py](/programmers/교점에별만들기.py)|[풀이](/풀이/풀이_교점에별만들기.md)|위클리 챌린지 |
 | 01/09| 피로도| [피로도.py](/programmers/피로도.py)|[풀이](/풀이/풀이_피로도.md)|위클리 챌린지 |
 | 01/09| 2개 이하로 다른 비트| [2개 이하로 다른 비트.py](/programmers/2개이하로다른비트.py)|[풀이](/풀이/풀이_2개이하로다른비트.md)| 월간 코드 챌린지 시즌2 |
+| 02/20| LeetCode - 905| [905.py](/LeetCode/905.py)|[풀이](/풀이/풀이_LC905.md)|Array, Two Pointers, Sorting|
+| 02/20| LeetCode - 896| [896.py](/LeetCode/896.py)|[풀이](/풀이/풀이_LC896.md)|Array|
+| 02/20| LeetCode - 908| [908.py](/LeetCode/908.py)|[풀이](/풀이/풀이_LC908.md)|Array, Math|
+| 02/20| LeetCode - 914| [914.py](/LeetCode/914.py)|[풀이](/풀이/풀이_LC914.md)|Array, Hash Table, Math, Counting, Number Theory|
+
 
 
 
