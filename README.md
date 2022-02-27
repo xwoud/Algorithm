@@ -222,6 +222,10 @@
 | 02/20| LeetCode - 896| [896.py](/LeetCode/896.py)|[풀이](/풀이/풀이_LC896.md)|Array|
 | 02/20| LeetCode - 908| [908.py](/LeetCode/908.py)|[풀이](/풀이/풀이_LC908.md)|Array, Math|
 | 02/20| LeetCode - 914| [914.py](/LeetCode/914.py)|[풀이](/풀이/풀이_LC914.md)|Array, Hash Table, Math, Counting, Number Theory|
+| 02/27| LeetCode - 929| [929.py](/LeetCode/929.py)|[풀이](/풀이/풀이_LC929.md)|Array, Hash Table, String|
+| 02/27| LeetCode - 937| [937.py](/LeetCode/937.py)|[풀이](/풀이/풀이_LC937.md)|Array, String, Sorting|
+| 02/27| LeetCode - 942| [942.py](/LeetCode/942.py)|[풀이](/풀이/풀이_LC942.md)|Array, Math, Two Pointers, String, Greedy|
+| 02/27| LeetCode - 944| [944.py](/LeetCode/944.py)|[풀이](/풀이/풀이_LC944.md)|Array, String|
 
 
 
