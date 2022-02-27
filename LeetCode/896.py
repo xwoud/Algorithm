@@ -6,7 +6,6 @@ class Solution:
         increasing = True
         decreasing = True
 
-        if len(nums) < 3: return True
         for i in range(0, len(nums)-1):
             if nums[i] < nums[i+1]: 
                 increasing = False
@@ -14,6 +13,3 @@ class Solution:
                 decreasing = False
 
         return increasing or decreasing
-
-my = Solution()
-print(my.isMonotonic([1,3,2]))
