@@ -12,7 +12,7 @@ class Solution:
                 answer.append(d)
                 d -= 1
         
-        if s[-1] == "I": answer.append(answer[-1]+1)
-        else : answer.append(answer[-1]-1)
+        if s[-1] == "I": answer.append(i)
+        else : answer.append(d)
 
         return answer
