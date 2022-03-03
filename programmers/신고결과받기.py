@@ -8,8 +8,9 @@ def solution(id_list, report, k):
         else:
             answer[offender] = [victim]
 
-    for mail in filter(lambda x: len(answer[x]) >= k, answer) :
-        for count in answer[mail]:
-            dictionary[count] = dictionary[count] + 1
+    for counter in answer.values():
+        if len(counter) >= k :
+            for t in counter:
+                dictionary[t] = dictionary[t] + 1
     
     return list(dictionary.values())
