@@ -4,13 +4,12 @@ def solution(id_list, report, k):
     for a in set(report):
         victim, offender = a.split()[0], a.split()[1]
         if answer.get(offender) != None : 
-            answer[offender] = answer[offender] | {victim}
+            answer[offender] = answer[offender] + [victim]
         else:
-            answer[offender] = {victim}
+            answer[offender] = [victim]
 
-    for counter in answer.values():
-        if len(counter) >= k :
-            for t in counter:
-                dictionary[t] = dictionary[t] + 1
+    for mail in filter(lambda x: len(answer[x]) >= k, answer) :
+        for count in answer[mail]:
+            dictionary[count] = dictionary[count] + 1
     
     return list(dictionary.values())
