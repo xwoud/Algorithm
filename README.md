@@ -226,6 +226,10 @@
 | 02/27| LeetCode - 937| [937.py](/LeetCode/937.py)|[풀이](/풀이/풀이_LC937.md)|Array, String, Sorting|
 | 02/27| LeetCode - 942| [942.py](/LeetCode/942.py)|[풀이](/풀이/풀이_LC942.md)|Array, Math, Two Pointers, String, Greedy|
 | 02/27| LeetCode - 944| [944.py](/LeetCode/944.py)|[풀이](/풀이/풀이_LC944.md)|Array, String|
+| 03/03| 신고 결과 받기| [신고결과받기.py](/LeetCode/신고결과받기.py)|[풀이](/풀이/풀이_신고결과받기.md)|2022 KAKAO BLIND RECRUITMENT|
+| 03/04|k진수에서 소수 개수 구하기| [k진수에서소수개수구하기.py](/LeetCode/k진수에서소수개수구하기.py)|[풀이](/풀이/풀이_k진수에서소수개수구하기.md)|2022 KAKAO BLIND RECRUITMENT|
+| 03/05| 주차 요금 계산| [주차요금계산.py](/LeetCode/주차요금계산.py)|[풀이](/풀이/풀이_주차요금계산.md)|2022 KAKAO BLIND RECRUITMENT|
+| 03/06| 양궁 대회| [양궁대회.py](/LeetCode/양궁대회.py)|[풀이](/풀이/풀이_양궁대회.md)|2022 KAKAO BLIND RECRUITMENT|
 
 
 
