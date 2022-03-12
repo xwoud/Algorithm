@@ -1,10 +1,8 @@
-import numpy
-
 def solution(board, skill):
     answer = 0
-    n = len(board[0]) + 1
-    m = len(board) + 1
-    array = [[0 for col in range(n)] for row in range(m)]
+    n = len(board[0])
+    m = len(board)
+    array = [[0 for col in range(n+1)] for row in range(m+1)]
 
     for point in skill:
         if point[0] == 1: degree = - point[5]
@@ -17,22 +15,22 @@ def solution(board, skill):
         array[x2+1][y2+1] += degree
 
     point = 0
-    while point < n-1 :
+    while point < n :
         before = 0
-        for i in range(n):
+        for i in range(n+1):
             array[point][i] += before
             before = array[point][i]
         point += 1
     
     point = 0
-    while point < m-1 :
+    while point < m :
         before = 0
-        for i in range(m):
+        for i in range(m+1):
             array[i][point] += before
             before = array[i][point]
         point += 1
     
-    for i in range(m-1):
-        for j in range(n-1):
+    for i in range(m):
+        for j in range(n):
             if board[i][j] + array[i][j] > 0 : answer += 1
     return answer
